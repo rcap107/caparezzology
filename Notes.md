@@ -18,3 +18,5 @@ https://www.azlyrics.com/c/caparezza.html
 I might still want to use the Genius API to get the annotations and do sentiment
 analysis on that to see if it matches the sentiment of the songs themselves. 
 
+The lyrics are not being parsed properly for some reason. 
+Needs debugging 
