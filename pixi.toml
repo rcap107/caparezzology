@@ -1,0 +1,17 @@
+[workspace]
+authors = ["Riccardo Cappuzzo <riccardo.cappuzzo@gmail.com>"]
+channels = ["conda-forge"]
+name = "caparezzology"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+requests = ">=2.32.5,<3"
+polars = ">=1.35.2,<2"
+pandas = ">=2.3.3,<3"
+matplotlib = ">=3.10.8,<4"
+ipython = ">=9.7.0,<10"
+ipykernel = ">=7.1.0,<8"
+beautifulsoup4 = ">=4.14.2,<5"
