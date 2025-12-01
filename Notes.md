@@ -32,3 +32,11 @@ https://huggingface.co/MilaNLProc/feel-it-italian-emotion
 
 https://huggingface.co/MilaNLProc/feel-it-italian-sentiment
 
+https://huggingface.co/VAGOsolutions/SauerkrautLM-GLiNER
+
+https://huggingface.co/Babelscape/wikineural-multilingual-ner
+
+https://huggingface.co/tabularisai/multilingual-sentiment-analysis
+
+https://huggingface.co/cis-lmu/glotlid
+
