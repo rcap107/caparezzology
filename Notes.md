@@ -20,3 +20,15 @@ analysis on that to see if it matches the sentiment of the songs themselves.
 
 The lyrics are not being parsed properly for some reason. 
 Needs debugging 
+
+I got IP-banned (whoops). I changed the delay between each song to 10s and added
+another delay between all albums of 10 more seconds, and this seems to have 
+fixed the issue. 
+
+## Sentiment analysis
+https://huggingface.co/docs/transformers/installation
+
+https://huggingface.co/MilaNLProc/feel-it-italian-emotion
+
+https://huggingface.co/MilaNLProc/feel-it-italian-sentiment
+
